@@ -1,3 +1,21 @@
+# Get start
+
+Commands:
+
+### `git clone <this url>`
+
+### `npm i`
+
+### `npm start`
+
+**What I used to solve this .**
+
+1) axios library for server request.
+2) react-router-dom for routing between pages.
+3) lodash library for using debounce function to optimize an application.
+4) React hooks.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
