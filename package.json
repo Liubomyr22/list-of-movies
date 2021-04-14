@@ -2,7 +2,7 @@
   "name": "movie-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Liubomyr22/list-of-movies",
+  "homepage": "./",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
